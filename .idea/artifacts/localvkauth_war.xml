@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="localvkauth:war">
+    <output-path>$PROJECT_DIR$/out/artifacts/localvkauth_war</output-path>
+    <root id="archive" name="localvkauth_war.war">
+      <element id="artifact" artifact-name="localvkauth:war exploded" />
+    </root>
+  </artifact>
+</component>
